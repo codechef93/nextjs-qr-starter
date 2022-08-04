@@ -1,0 +1,19 @@
+{
+  "name": "nextjs-scan-barcode-in-mobile",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "latest",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "react-qr-barcode-scanner": "^1.0.6",
+    "react-webcam-barcode-scanner": "0.0.2-rc2"
+  },
+  "license": "MIT",
+  "keywords": [],
+  "description": ""
+}
